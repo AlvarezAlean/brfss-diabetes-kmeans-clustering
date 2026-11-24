@@ -327,4 +327,4 @@ if st.button("Asignar clúster", type="primary"):
   )
 
   with st.expander("Ver registro enviado al pipeline"):
-    st.dataframe(df_entrada, use_container_width=True)pwd
+    st.dataframe(df_entrada, use_container_width=True)
